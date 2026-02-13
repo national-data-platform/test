@@ -24,3 +24,4 @@ jobs:
           # common
           LANGUAGE: English
           LOG_LEVEL: debug
+          max_tokens: 10000
